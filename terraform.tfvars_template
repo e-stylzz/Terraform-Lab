@@ -1,0 +1,7 @@
+vsphere_vcenter = ""
+vsphere_user = ""
+vsphere_password = ""
+vsphere_datacenter = ""
+vsphere_cluster_1 = ""
+vsphere_cluster_2 = ""
+vm_domain = ""
